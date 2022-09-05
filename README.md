@@ -1,10 +1,9 @@
 Adopt a pet app using React JS
 
-<img width="200" alt="Screen Shot 2022-09-04 at 11 09 30 PM" src="https://user-images.githubusercontent.com/13388651/188373772-489ed381-6737-44a7-85d1-ecf91fbd2ec9.png">
-<img width="200" alt="Screen Shot 2022-09-04 at 11 10 22 PM" src="https://user-images.githubusercontent.com/13388651/188373936-4f7e9f15-186e-4c9a-b95c-1accbdf20bf0.png">
+<img width="350" alt="Screen Shot 2022-09-04 at 11 09 30 PM" src="https://user-images.githubusercontent.com/13388651/188375044-58dc8860-5ead-4c01-a78e-d61c71e66d20.png"><img width="350" alt="Screen Shot 2022-09-04 at 11 10 22 PM" src="https://user-images.githubusercontent.com/13388651/188375059-df7cb4c9-adcc-46fe-bfb7-89df7314f325.png">
 
-<img width="200" alt="Screen Shot 2022-09-04 at 11 10 39 PM" src="https://user-images.githubusercontent.com/13388651/188373948-c5e15539-bb73-4932-b30b-f64b5c298aa0.png">
-<img width="200" alt="Screen Shot 2022-09-04 at 11 11 11 PM" src="https://user-images.githubusercontent.com/13388651/188373958-8048d40d-52ec-4954-855d-de514efd9027.png">
+<img width="350" alt="Screen Shot 2022-09-04 at 11 10 39 PM" src="https://user-images.githubusercontent.com/13388651/188375108-aed76336-41c0-4a71-a1ac-088fe24839a0.png"><img width="350" alt="Screen Shot 2022-09-04 at 11 11 11 PM" src="https://user-images.githubusercontent.com/13388651/188375128-9a1375d7-269f-4d36-b4cc-7c8466ff4474.png">
+
 
 - Search for Pets
   - By Pet Type
